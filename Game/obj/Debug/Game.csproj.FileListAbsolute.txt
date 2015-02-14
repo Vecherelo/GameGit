@@ -8,3 +8,6 @@ D:\Work_Pr\visual studio 2013\Projects\Game\Game\obj\Debug\Game.exe
 D:\Work_Pr\visual studio 2013\Projects\Game\Game\obj\Debug\Game.pdb
 D:\Work_Pr\visual studio 2013\Projects\Game\Game\obj\Debug\Game.Form2.resources
 D:\Work_Pr\visual studio 2013\Projects\Game\Game\obj\Debug\Game.Form1.resources
+D:\Work_Pr\visual studio 2013\Projects\GameGit\Game\bin\Debug\Game.exe.config
+D:\Work_Pr\visual studio 2013\Projects\GameGit\Game\obj\Debug\Game.exe
+D:\Work_Pr\visual studio 2013\Projects\GameGit\Game\obj\Debug\Game.pdb

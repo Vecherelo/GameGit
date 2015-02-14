@@ -20,6 +20,8 @@ namespace Game
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = "sdfsdf" + "sdfsdf";
+            int t = 5;
+            t += 5;
             Close();
 
         }
